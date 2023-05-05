@@ -22,7 +22,7 @@ the above code makes a folder called minecraftforge, then it moves you into that
 
 ## Install IntelliJ
 ```
-wget "https://download-cdn.jetbrains.com/idea/ideaIC-2021.2.3.tar.gz" && tar xvf ideaIC-2021.2.3.tar.gz && mv idea-IC-212.5457.46/ /opt/idea && rm ideaIC-2021.2.3.tar.gz
+wget "https://download-cdn.jetbrains.com/idea/ideaIC-2021.2.3.tar.gz" && tar xvf ideaIC-2021.2.3.tar.gz && sudo mv idea-IC-212.5457.46/ /opt/idea && rm ideaIC-2021.2.3.tar.gz
 ```
 the process above is the same as the minecraft install but instead of installing in the minecraftforge folder it is downloading and using tar to unpack and install, `mv` is then used to move the software into `/opt/idea` and then `rm` removes the tar.gz 
 
