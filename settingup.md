@@ -30,7 +30,11 @@ the process above is the same as the minecraft install but instead of installing
 
 #### To play
 From the minecraftforge directory run the command:
-`./gradlew runClient`
+```
+./gradlew genIntelliJRun && 
+```
+Then run: 
+```./gradlew runClient```
 
 
 
