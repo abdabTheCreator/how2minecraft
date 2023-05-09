@@ -1,5 +1,5 @@
 # When in minecraft
-> Assumes using MinecraftModding git repo
+> Assumes using ModdingMinecraft git repo
 ## Spawning Dragons
 - press `t` to bring up the command line
 - type command `/give Dev minecraft:dragon_egg`
